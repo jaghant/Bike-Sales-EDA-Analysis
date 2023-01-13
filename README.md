@@ -7,10 +7,10 @@
 ![image](https://user-images.githubusercontent.com/108980892/212249128-9c83cf68-f802-4ba7-8a61-b1bbf349f431.png)
 
 ### Bike Purchasing Trend According to Region
-	Region	Purchasedbike
-	0	Europe	300
+	S.no    Region	        Purchasedbike
+	0	Europe	        300
 	1	North America	508
-	2	Pacific	192
+	2	Pacific	        192
 ![image](https://user-images.githubusercontent.com/108980892/212249217-c773e739-e04a-41be-a714-cf5b38c3410c.png)
 
 ### Bike Purchasing Trend According Occupation.
