@@ -8,6 +8,7 @@
 
 ### Bike Purchasing Trend According to Region
 	S.no    Region	        Purchasedbike
+	
 	0	Europe	        300
 	1	North America	508
 	2	Pacific	        192
@@ -15,6 +16,7 @@
 
 ### Bike Purchasing Trend According Occupation.
 	S.no    Occupation	  Purchasedbike
+	
 	0	Clerical	  177
 	1	Management	  173
 	2	Manual	          119
