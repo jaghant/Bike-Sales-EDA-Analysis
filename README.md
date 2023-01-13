@@ -39,13 +39,13 @@
 ![image](https://user-images.githubusercontent.com/108980892/212255348-720c152d-da4a-4ea6-819c-42d7a5232b6b.png)
 
 ### Bike Purchasing Trend According to Education
-      	S.no    Education	     Purchasedbike
+      	S.no    Education	       Purchasedbike
 	
-	0	Bachelors	     306
-	1	Graduate Degree	     174
-	2	High School	     179
-	3	Partial College	     265
-	4	Partial High School  76
+	0	Bachelors	       306
+	1	Graduate Degree	       174
+	2	High School	       179
+	3	Partial College	       265
+	4	Partial High School    76
 ![image](https://user-images.githubusercontent.com/108980892/212255684-fb108384-9e82-46af-af71-5e14d996c6a4.png)
 
 ### Bike Purchasing Trend According to Numbers of their Children
